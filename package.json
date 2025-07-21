@@ -1,0 +1,13 @@
+{
+  "name": "ping-service",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "ping-service.js",
+  "scripts": {
+    "start": "node ping-service.js"
+  },
+  "dependencies": {
+    "express": "^5.1.0",
+    "cors": "^2.8.5"
+  }
+}
