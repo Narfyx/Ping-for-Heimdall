@@ -195,5 +195,5 @@ app.listen(PORT, '0.0.0.0', () => {
 ```
 
 # Résultat:
-![[Pasted image 20250721210313.png]]
+![[[Pasted image 20250721210313.png](https://github.com/Narfyx/Ping-for-Heimdall/blob/main/Pasted%20image%2020250721210313.png)]]
 
